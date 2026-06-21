@@ -7,7 +7,8 @@
 
 # Integrantes del Equipo
 * Yira Yakizma Bailon Garcia
-
+*Agustin Gomez
+*Diana Contreras
 
 ## 📄 Resumen Ejecutivo del MVP
 En este proyecto se realiza la interfaz de un inicio de secion para una red social.
